@@ -46,5 +46,32 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" />  
 </div>  
 
+<br>
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gazzar97&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gazzar97&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+<!--
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=gazzar97&&style=flat-square)  
+  
+
+<br/>  
+-->
+
+<br />
+
 Credits: [Mahmoud Elgazzar](https://github.com/gazzar97)
 
