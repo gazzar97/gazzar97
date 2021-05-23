@@ -62,14 +62,14 @@
 <br/>  
 
   
-<!--
+
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=gazzar97&&style=flat-square)  
   
 
 <br/>  
--->
+
 
 <br />
 
