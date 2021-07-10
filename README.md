@@ -4,17 +4,17 @@
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
-<p align="center">I'm a Front-End web developer.</p><br/>
+<p align="center">I'm a Software Engineer  .</p><br/>
 
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working as a Front-End Developer at @ITWorx
-- 🌱 I’m currently learning React, R and shiny framework.
-- 👯 I’m looking to collaborate on Frontend-Web projects.
-- 🤔 I’m looking for help with React.
-- 💬 Ask me about Front-end Web Development, Any tech-related stuff.
+- 🔭 I'm working as a Software Engineer at @ITWorx
+- 🌱 I’m currently learning C#, .Net framework and .Nat Core.
+- 👯 I’m looking to collaborate on open source projects.
+- 🤔 I’m looking for help with C#.
+- 💬 Ask me about Front-end Web Development , C# and .Net core , Any tech-related stuff.
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h2></summary>
