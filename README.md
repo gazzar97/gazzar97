@@ -11,7 +11,7 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
 
-- 🔭 I'm working as a Software Engineer at @ITWorx
+- 🔭 I'm working as a Software Engineer at @LinkDevelopment
 - 🌱 I’m currently learning C#, .Net framework and .Nat Core.
 - 👯 I’m looking to collaborate on open source projects.
 - 🤔 I’m looking for help with C#.
